@@ -19,7 +19,7 @@
 
 body {
 	
-	background-image: url("images/staticflow.png");
+	background-image: url("images/staticflow.jpeg");
 	margin-left: 50px;
 
 }
@@ -69,7 +69,7 @@ body {
 
 #counter-back  {
 
-	background-color: powderblue;
+	background-color: rgba(247, 137, 164);
 	float: left;
 	margin-left: 40px;
 	border-style: solid;
@@ -83,7 +83,7 @@ body {
 
 #score {
 
-	background-color: teal;
+	background-color:rgba(247, 137, 164);
 	float: left;
 	border-style: solid;
 	border-width: 0.5px;
@@ -99,7 +99,7 @@ body {
 	padding: 10px;
 	padding-right: 150px;
 	padding-bottom: 75px;
-	background-color: teal;
+	background-color:rgba(247, 137, 164);
 	float: left;
 	border-style: solid;
 	border-width: 0.5px;
@@ -127,14 +127,14 @@ body {
 
 #wins {
 
-	color: navy;
+	color: purple;
 	font-weight: bold;
 	font-family: arial;
 }
 
 #losses {
 
-	color: navy;
+	color: purple;
 	font-weight: bold;
 	font-family: arial;
 }
