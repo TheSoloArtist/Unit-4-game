@@ -19,7 +19,8 @@
 
 body {
 	
-	background-image: url("images/staticflow.jpeg");
+	background: url("./assets/images/crystal6.jpg") no-repeat center center fixed;
+	background-size: contain;
 	margin-left: 50px;
 
 }
@@ -27,7 +28,7 @@ body {
 #title {
 
 	padding: 20px;
-	background-color: rgb(247, 137, 164);
+	background-color: rgb(153, 0, 38);
 	color: white;
 	float: left;
 	border-style: solid;
@@ -50,13 +51,13 @@ body {
 #instructions {
 
 	font-family: arial;
-	color: rgb(196, 68, 29);
+	color: rgb(153, 0, 3829);
 	font-weight: bold;
 }
 
 #target-back  {
 
-	background-color: rgb(247, 137, 164);
+	background-color: rgb(153, 0, 38);
 	float: left;
 	border-style: solid;
 	border-width: 0.5px;
@@ -69,7 +70,7 @@ body {
 
 #counter-back  {
 
-	background-color: rgba(247, 137, 164);
+	background-color: rgba(153, 0, 38);
 	float: left;
 	margin-left: 40px;
 	border-style: solid;
@@ -83,7 +84,7 @@ body {
 
 #score {
 
-	background-color:rgba(247, 137, 164);
+	background-color:rgba(153, 0, 38);
 	float: left;
 	border-style: solid;
 	border-width: 0.5px;
@@ -99,7 +100,7 @@ body {
 	padding: 10px;
 	padding-right: 150px;
 	padding-bottom: 75px;
-	background-color:rgba(247, 137, 164);
+	background-color:rgba(153, 0, 38);
 	float: left;
 	border-style: solid;
 	border-width: 0.5px;
@@ -114,27 +115,27 @@ body {
 
 #numGuess {
 
-	color: slateblue;
+	color: rgb(255, 255, 255);
 	font-family: arial;
 	font-weight: bold;
 }
 
 #targetNumber {
 
-	color: purple;
+	color: rgb(255, 255, 255);
 	font-size: 40px;
 }
 
 #wins {
 
-	color: purple;
+	color: rgb(255, 255, 255);
 	font-weight: bold;
 	font-family: arial;
 }
 
 #losses {
 
-	color: purple;
+	color: rgb(255, 255, 255);
 	font-weight: bold;
 	font-family: arial;
 }
